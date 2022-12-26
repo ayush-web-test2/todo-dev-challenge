@@ -97,6 +97,10 @@ body {
   gap: 10px;
 }
 
+.app_list>h2>span {
+  word-break: break-all;
+}
+
 .app_list>h2>input {
   cursor: pointer;
 }
